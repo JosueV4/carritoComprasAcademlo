@@ -1,0 +1,27 @@
+@media (max-width: 992px) { 
+    .car__product__description {
+        margin: 0;
+    }
+    .nav__car__visible {
+        left: 60%;
+    }
+    .car__block {
+        width: 40%;
+    }
+}
+@media (max-width: 768px) { 
+    .nav__car__visible {
+    left: 50%;
+    }
+    .car__block {
+        width: 50%;
+    }
+}
+@media (max-width: 576px) { 
+    .nav__car__visible {
+    left: 30%;
+    }
+    .car__block {
+        width: 70%;
+    }
+}
