@@ -17,12 +17,12 @@ nav {
     border-bottom: solid 1px #43434320;
     z-index: 10;
 }
-nav img {
+.nav__logo--rotate {
     height: 55px;
     transition: 1s;
 }
 nav img:hover {
-    transform: rotateY(180deg);
+    transform: rotateY(360deg);
 }
 nav button {
     width: 40px;
